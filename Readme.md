@@ -6,4 +6,4 @@ Day 01:
 Created The repo with the name provided by GITHUB itself.  
 Created a License from GITHUB.
 
-<img src="https://cdn.dribbble.com/users/881668/screenshots/15617302/media/248623bd88c30c9fc757288fe962255a.gif">
+<img align="center" width=40 height=40 src="https://cdn.dribbble.com/users/881668/screenshots/15617302/media/248623bd88c30c9fc757288fe962255a.gif">
