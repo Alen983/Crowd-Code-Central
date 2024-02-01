@@ -11,5 +11,6 @@ Created a License from GITHUB.
 
 Day 02:  
 Added a gif from [dribble](https://dribbble.com/shots/15617302-Overthinking/attachments/7406673?mode=media)  
+Learnt and experienced on how to align and adjust the size{height & width} of the GIF using HTML tags.
 <!--<img width=340 height=350 src="think.gif">
 
