@@ -1,6 +1,6 @@
 <h2>Test Repo🧪</h2>     
 
-<img align=right width=50% height=50% src="think.gif">  
+<img align=right width=40% height=40% src="think.gif">  
 
 This is a repo created with the idea of understanding pull requests.  
 Feel free to contribute to this random repo with anything.
