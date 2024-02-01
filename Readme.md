@@ -6,5 +6,7 @@ Day 01:
 Created The repo with the name provided by GITHUB itself.  
 Created a License from GITHUB.
 
+Day 02:  
+Added a gif from [dribble](https://dribbble.com/shots/15617302-Overthinking/attachments/7406673?mode=media)
 <img src="think.gif">
 
