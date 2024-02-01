@@ -8,5 +8,5 @@ Created a License from GITHUB.
 
 Day 02:  
 Added a gif from [dribble](https://dribbble.com/shots/15617302-Overthinking/attachments/7406673?mode=media)  
-<img width=140 height=80 src="think.gif">
+<img width=140 height=250 src="think.gif">
 
