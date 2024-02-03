@@ -2,8 +2,10 @@
 
 <img align=right width=40% height=40% src="think.gif">  
 
-This is a repo created with the idea of understanding pull requests.  
-Feel free to contribute to this random repo with anything.
+This is a repo created with the idea of exploring the world of technology,programming,educational ideas.  
+Feel free to contribute to this random repo with anything.  
+
+<h3>1.GITHUB PULL Request</h3>
 
 Day 01:  
 Created The repo with the name provided by GITHUB itself.  
