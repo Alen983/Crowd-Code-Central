@@ -11,6 +11,10 @@ Created a License from GITHUB.
 
 Day 02:  
 Added a gif from [dribble](https://dribbble.com/shots/15617302-Overthinking/attachments/7406673?mode=media)  
-Learnt and experienced on how to align and adjust the size{height & width} of the GIF using HTML tags.
-<!--<img width=340 height=350 src="think.gif">
+Learnt and experienced on how to align and adjust the size{height & width} of the GIF using HTML tags.  
+<!--<img width=340 height=350 src="think.gif"-->  
 
+Day 03:  
+Created a test branch {pull_branch} for learning more about pull request.  
+Made a couple of changes to the readme.md file to cause a difference between the main and secondary branch.  
+[Source](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)  
