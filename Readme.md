@@ -31,7 +31,13 @@ Made a couple of changes to the readme.md file to cause a difference between the
 [Source-GITHUB documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)  
 New pull request was detected by GITHUB and merged the branches finally `deleting` the secondary branch.  
 </details>  
-   
+
+<h3>Website</h3>  
+<details><summary>Web Dev</summary>  
+  Created a simple webpage for starting the journey of Bug-free-Happiness.  
+  Your ideas and suggestions are always welcome.  
+</details>  
+
    
 <h3>Licenses ⚖</h3>  
 This repository is under the GNU General Public License v3.0 but you need not carry it to your repository when using this repository.     
