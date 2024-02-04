@@ -14,11 +14,12 @@ This is how you dropdown.
 
 <h3>1. GITHUB PULL Request</h3>
 <details><summary>Learn about pull request</summary>
-<br>
+  
 Day 01:  
 Created The repo with the name provided by GITHUB itself.  
-Created a License from GITHUB.  
-<br>
+Created a License from GITHUB.    
+
+  
 Day 02:  
 Added a gif from [dribble](https://dribbble.com/shots/15617302-Overthinking/attachments/7406673?mode=media)  
 Learnt and experienced on how to align and adjust the size{height & width} of the GIF using HTML tags.  
