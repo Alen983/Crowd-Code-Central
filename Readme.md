@@ -11,8 +11,8 @@ Feel free to contribute to this random repo with anything.
 This is how you dropdown.
 </detail-->  
 
-<details>
-<h3>1. GITHUB PULL Request</h3>
+
+<details><h3>1. GITHUB PULL Request</h3>
 <br>
 Day 01:  
 Created The repo with the name provided by GITHUB itself.  
