@@ -21,7 +21,9 @@ Created a test branch {pull_branch} for learning more about pull request.
 Made a couple of changes to the readme.md file to cause a difference between the main and secondary branch.  
 [Source-GITHUB documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)  
 New pull request was detected by GITHUB and merged the branches finally `deleting` the secondary branch.  
-
+   
+   
+   
 <h3>Licenses ⚖</h3>  
 This repository is under the GNU General Public License v3.0 but you need not carry it to your repository when using this repository.     
 
