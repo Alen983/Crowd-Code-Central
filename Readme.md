@@ -18,7 +18,7 @@ This is how you dropdown.
 Day 01:  
 Created The repo with the name provided by GITHUB itself.  
 Created a License from GITHUB.  
-  
+<br>
 Day 02:  
 Added a gif from [dribble](https://dribbble.com/shots/15617302-Overthinking/attachments/7406673?mode=media)  
 Learnt and experienced on how to align and adjust the size{height & width} of the GIF using HTML tags.  
