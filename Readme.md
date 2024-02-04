@@ -13,7 +13,7 @@ This is how you dropdown.
 
 
 <h3>1. GITHUB PULL Request</h3>
-<details>
+<details><summary>Learn about pull request</summary>
 <br>
 Day 01:  
 Created The repo with the name provided by GITHUB itself.  
