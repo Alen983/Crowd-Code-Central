@@ -24,5 +24,5 @@ New pull request was detected by GITHUB and merged the branches finally `deletin
 
 <h3>Licenses</h3>  
 This repository is under the GNU General Public License v3.0 but you need not carry it to your repository when using this repository.     
-> "Let us help and grow together."   
 
+>"Let us help and grow together."   
