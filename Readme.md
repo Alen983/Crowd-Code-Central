@@ -34,7 +34,7 @@ New pull request was detected by GITHUB and merged the branches finally `deletin
 
 <h3>2.Website</h3>  
 <details open><summary>Web Dev</summary>    
-Created a simple webpage for starting the journey of Bug-free-Happiness.  
+Created a simple webpage for starting the journey of Bug-free-Happiness.\
 Your ideas and suggestions are always welcome.    
 </details>  
 
