@@ -32,8 +32,8 @@ Made a couple of changes to the readme.md file to cause a difference between the
 New pull request was detected by GITHUB and merged the branches finally `deleting` the secondary branch.  
 </details>  
 
-<h3>Website</h3>  
-<details><summary>2.Web Dev</summary>  
+<h3>2.Website</h3>  
+<details><summary>Web Dev</summary>  
   Created a simple webpage for starting the journey of Bug-free-Happiness.  
   Your ideas and suggestions are always welcome.  
 </details>  
