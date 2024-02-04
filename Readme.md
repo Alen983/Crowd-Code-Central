@@ -5,6 +5,12 @@
 This is a repo created with the idea of exploring the world of technology,programming,educational ideas.  
 Feel free to contribute to this random repo with anything.  
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>  
+
 <h3>1. GITHUB PULL Request</h3>
 
 Day 01:  
