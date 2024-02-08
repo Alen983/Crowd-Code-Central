@@ -38,6 +38,11 @@ Created a simple webpage for starting the journey of Bug-free-Happiness.
 Your ideas and suggestions are always welcome.    
 </details>  
 
+<h3>3.CyberSecurity</h3>
+<details open><summary>Security</summary>
+Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security[source](https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security)
+
+
    
 <h3>Licenses ⚖</h3>  
 This repository is under the GNU General Public License v3.0 but you need not carry it to your repository when using this repository.     
