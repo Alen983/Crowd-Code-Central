@@ -1,4 +1,4 @@
-<h2>Experimental Repo🧪🐛</h2>     
+c<h2>Experimental Repo🧪🐛</h2>     
 
 <img align=right width=40% height=40% src="think.gif">  
 
@@ -38,11 +38,12 @@ Created a simple webpage for starting the journey of Bug-free-Happiness.
 Your ideas and suggestions are always welcome.    
 </details>  
 
-<h3>3.CyberSecurity</h3>
+<h3>3. CyberSecurity</h3>
 <details open><summary>Security</summary>
-Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security
-[Source](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)  
+Cybersecurity is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security.  
+[Source](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 </details>
+
 
 
    
