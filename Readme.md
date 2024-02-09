@@ -38,13 +38,14 @@ Created a simple webpage for starting the journey of Bug-free-Happiness.
 Your ideas and suggestions are always welcome.    
 </details>  
 
-<h3>3. CyberSecurity</h3>
-<details open><summary>Security</summary>
-Cybersecurity is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security.  
+### 3. CyberSecurity
+
+<details open>
+  <summary>Security</summary>
+
+Cybersecurity is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security.
 [Source](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 </details>
-
-
 
    
 <h3>Licenses ⚖</h3>  
