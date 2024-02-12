@@ -42,7 +42,7 @@ Your ideas and suggestions are always welcome.
 
 <details open>
   <summary>Security</summary>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/VLWIuR02bq33gp48aQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/adultswim-adult-swim-birdgirl-phished-VLWIuR02bq33gp48aQ">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/VLWIuR02bq33gp48aQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adultswim-adult-swim-birdgirl-phished-VLWIuR02bq33gp48aQ">via GIPHY</a></p>
 Cybersecurity is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security.
 [Source](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)  
 
