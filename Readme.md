@@ -44,7 +44,10 @@ Your ideas and suggestions are always welcome.
   <summary>Security</summary>
 
 Cybersecurity is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security.
-[Source](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+[Source](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)  
+
+Encryption and Decryptton are two of the major aspects of cybersecurity and is crucial in develeopment.
+
 </details>
 
    
