@@ -42,7 +42,8 @@ Your ideas and suggestions are always welcome.
 
 <details open>
   <summary>Security</summary>
-  
+  <img align="center" width=25% height=25% url="">
+  <div class="tenor-gif-embed" data-postid="20990497" data-share-method="host" data-aspect-ratio="1.84971" data-width="100%"><a href="https://tenor.com/view/cyber-gif-20990497">Cyber GIF</a>from <a href="https://tenor.com/search/cyber-gifs">Cyber GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 Cybersecurity is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security.
 [Source](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)  
 
