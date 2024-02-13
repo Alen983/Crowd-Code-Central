@@ -56,10 +56,8 @@ Encryption and Decryptton are two of the major aspects of cybersecurity and is c
 <details open>
   <summary>College Life</summary>
 
-Cybersecurity is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security.
-[Source](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)  
-
-Encryption and Decryptton are two of the major aspects of cybersecurity and is crucial in develeopment.
+College. 
+One of those aspects of life that has no specific answer. Is college Necessary? Is it really worth it or worth the trouble.
 
 </details>
 
