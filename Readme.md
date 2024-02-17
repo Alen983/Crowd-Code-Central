@@ -63,7 +63,10 @@ Websites like HTB , hackthissite all provide an idea to understand SQL injection
   <summary>College Life</summary>
 
 College. 
-One of those aspects of life that has no specific answer. Is college Necessary? Is it really worth it or worth the trouble.
+One of those aspects of life that has no specific answer. Is college Necessary? Is it really worth it or worth the trouble.  
+it is what it is.  
+live and let live.  
+just keep understanding what you need and that is it.
 
 </details>
 
