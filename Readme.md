@@ -56,7 +56,7 @@ connect to a machine:
 mysql -u root -h {address of host} -P {Port} -p  
 {password}  
 
-Cheat sheet:
+Cheat sheet:  
 -u : user  
 -h : host  
 -P : port  
