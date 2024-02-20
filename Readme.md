@@ -54,7 +54,14 @@ Websites like HTB , hackthissite all provide an idea to understand SQL injection
 
 connect to a machine:
 mysql -u root -h {address of host} -P {Port} -p  
-{password}
+{password}  
+
+Cheat sheet:
+-u : user  
+-h : host  
+-P : port  
+-p : password
+
 
 
 
