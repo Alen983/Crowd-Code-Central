@@ -60,7 +60,10 @@ Cheat sheet:
 -u : user  
 -h : host  
 -P : port  
--p : password
+-p : password  
+
+> depending on the host
+
 
 
 
