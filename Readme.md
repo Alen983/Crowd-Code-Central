@@ -52,6 +52,7 @@ SQL Injection.
 The idealogy of manipulating databases that are stored upfront are all used with help of sql injection.
 Websites like HTB , hackthissite all provide an idea to understand SQL injections.  
 
+> connnecting to a machine using localhost as well.
 connect to a machine:
 mysql -u root -h {address of host} -P {Port} -p  
 {password}  
@@ -62,7 +63,7 @@ Cheat sheet:
 -P : port  
 -p : password  
 
-> connnecting to a machine using localhost as well.
+
 
 
 
