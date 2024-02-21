@@ -62,7 +62,7 @@ Cheat sheet:
 -P : port  
 -p : password  
 
-> depending on the host
+> connnecting to a machine using localhost as well.
 
 
 
