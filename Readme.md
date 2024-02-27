@@ -64,8 +64,7 @@ Cheat sheet:
 -P : port  
 -p : password   
 
-mysql > use database_name  
-mysql > 
+mysql > use database_name 
 
 
 
