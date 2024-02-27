@@ -62,7 +62,13 @@ Cheat sheet:
 -u : user  
 -h : host  
 -P : port  
--p : password  
+-p : password   
+
+mysql > use database_name  
+mysql > 
+
+
+
 
 
 
