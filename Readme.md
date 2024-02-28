@@ -64,7 +64,7 @@ Cheat sheet:
 -P : port  
 -p : password   
 
-mysql > use database_name 
+[Github repo -SQL injection  ](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 
 
