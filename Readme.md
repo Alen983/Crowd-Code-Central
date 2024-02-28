@@ -71,7 +71,7 @@ Comments in sql:
 1. {-- -}
    > add space after minus
    
-2. 
+2. {user}'--{space}
 
 
 
