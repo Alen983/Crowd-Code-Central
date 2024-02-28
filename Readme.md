@@ -40,7 +40,7 @@ Your ideas and suggestions are always welcome.
 
 ### 3. CyberSecurity
 
-<details open>
+<details>
   <summary>Security</summary>
 
 Cybersecurity is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security.
