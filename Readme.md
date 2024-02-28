@@ -48,7 +48,7 @@ Cybersecurity is the practice of defending computers, servers, mobile devices, e
 
 Encryption and Decryptton are two of the major aspects of cybersecurity and is crucial in develeopment.  
 
-SQL Injection.  
+#### SQL Injection.  
 The idealogy of manipulating databases that are stored upfront are all used with help of sql injection.
 Websites like HTB , hackthissite all provide an idea to understand SQL injections.  
 
