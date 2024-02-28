@@ -13,7 +13,7 @@ This is how you dropdown.
 
 
 <h3>1. GITHUB PULL Request</h3>
-<details><summary>Learn about pull request</summary>
+<details open><summary>Learn about pull request</summary>
   
 Day 01:  
 Created The repo with the name provided by GITHUB itself.  
@@ -33,7 +33,7 @@ New pull request was detected by GITHUB and merged the branches finally `deletin
 </details>  
 
 <h3>2.Website</h3>  
-<details><summary>Web Dev</summary>    
+<details open><summary>Web Dev</summary>    
 Created a simple webpage for starting the journey of Bug-free-Happiness.  
 Your ideas and suggestions are always welcome.    
 </details>  
