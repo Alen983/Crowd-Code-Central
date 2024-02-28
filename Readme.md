@@ -68,7 +68,7 @@ Cheat sheet:
 
 Comments in sql:  
 
-1. -- -
+1. {-- -}
    > add space after minus
    
 2. 
