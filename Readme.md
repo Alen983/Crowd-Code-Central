@@ -64,7 +64,14 @@ Cheat sheet:
 -P : port  
 -p : password   
 
-[Github repo -SQL injection  ](https://github.com/swisskyrepo/PayloadsAllTheThings)
+[Github repo -SQL injection  ](https://github.com/swisskyrepo/PayloadsAllTheThings)  
+
+Comments in sql:  
+
+1. -- -
+   > add space after minus
+   
+2. 
 
 
 
