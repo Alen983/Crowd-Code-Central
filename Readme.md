@@ -11,7 +11,7 @@ Feel free to contribute to this random repo with anything.
 This is how you dropdown.
 </detail-->  
 
-<hr>
+<!--hr-->
 <h3>1. GITHUB PULL Request</h3>
 <details open><summary>Learn about pull request</summary>
   
@@ -37,7 +37,7 @@ New pull request was detected by GITHUB and merged the branches finally `deletin
 Created a simple webpage for starting the journey of Bug-free-Happiness.  
 Your ideas and suggestions are always welcome.    
 </details>  
-<hr>
+<!--hr-->
 
 ### 3. CyberSecurity
 
@@ -48,7 +48,7 @@ Cybersecurity is the practice of defending computers, servers, mobile devices, e
 [Source](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)  
 
 Encryption and Decryptton are two of the major aspects of cybersecurity and is crucial in develeopment. 
-<hr>
+<!--hr-->
 
 #### SQL Injection.  
 The idealogy of manipulating databases that are stored upfront are all used with help of sql injection.
@@ -90,7 +90,7 @@ gg' union select 1,2,4,...until success.
 
 
 </details>
-<hr>
+<!--hr-->
 
 ### 3. College
 
@@ -108,6 +108,6 @@ just keep understanding what you need and that is it.
    
 <h3>Licenses ⚖</h3>  
 This repository is under the GNU General Public License v3.0 but you need not carry it to your repository when using this repository.     
-<hr>
+<!--hr-->
 
 >"Let us help and grow together."   
