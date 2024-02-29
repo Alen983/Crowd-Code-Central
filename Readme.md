@@ -88,7 +88,7 @@ gg' union select 1,2,4,...until success.
 
 
 </details>
-
+<hr>
 
 ### 3. College
 
