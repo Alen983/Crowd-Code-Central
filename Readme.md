@@ -81,8 +81,8 @@ Comments in sql:
 ### union
 gg' union select 1,2,4,...until success -- -.
 
-
-
+### SQL Version  
+xx' union select 1,@@version,3,4  
 
 
 
