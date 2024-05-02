@@ -30,6 +30,10 @@ Created a test branch {pull_branch} for learning more about pull request.
 Made a couple of changes to the readme.md file to cause a difference between the main and secondary branch.  
 [Source-GITHUB documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)  
 New pull request was detected by GITHUB and merged the branches finally `deleting` the secondary branch.  
+
+Day Unknown:  
+Changed the name from bug-free-happiness to crowd-code-central.  
+
 </details>  
 
 <h3>2.Website</h3>  
