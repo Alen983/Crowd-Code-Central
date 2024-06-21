@@ -1,0 +1,54 @@
+body{
+    background: rgb(0, 0, 0);
+    font-family: "DM Serif Display", serif;
+}
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.text{
+    color: rgba(255, 255, 255, 0.689);
+    margin-bottom: 25px;
+    /*font-size: 20px;*/
+    
+}
+
+.loading{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loading .line-box{
+    /*padding: 2px;*/
+    width: 40%;
+    height: 5px;
+    border: 0.5px solid rgba(255, 255, 255, 0.556);
+    /*border-radius: 20px;*/
+}
+
+.loading .line-box .line{
+    height: 5px;
+    /*border-radius:20px ;*/
+    background: rgba(255, 255, 255, 0.607);
+    animation:loading 2s forwards cubic-bezier(0,0,0,0);
+}
+
+@keyframes loading{
+    0%{
+        width: 0%;
+
+    }
+
+    100%{
+        width: 100%;
+    }
+}
