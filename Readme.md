@@ -39,10 +39,13 @@ Changed the name from bug-free-happiness to crowd-code-central.
 <h3>2.Website</h3>  
 <details open><summary>Web Dev</summary>    
 Created a simple webpage for starting the journey of Bug-free-Happiness.  
-Your ideas and suggestions are always welcome.    
+Your ideas and suggestions are always welcome.   
+
 
   The official name for the repository has been changed from bug-free-happiness (which was originally suggested by GITHUB) to Crowd-Code-Central.  
-  The website is currently undegoing a modification.
+  The website is currently undegoing a modification.  
+
+  Site has been developed in framer and has been uploaded.
 </details>  
 <!--hr-->
 
