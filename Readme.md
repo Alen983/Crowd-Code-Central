@@ -104,7 +104,7 @@ xx' union select 1,@@version,3,4
 
 ### 3. College
 
-<details open>
+<details close>
   <summary>College Life</summary>
 
 College. 
